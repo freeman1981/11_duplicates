@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+Будет удалено .gitignore
+Будет удалено .idea/11_duplicates.iml
+Будет удалено .idea/encodings.xml
+Будет удалено .idea/inspectionProfiles/
+Будет удалено .idea/misc.xml
+Будет удалено .idea/modules.xml
+Будет удалено .idea/preferred-vcs.xml
+Будет удалено .idea/workspace.xml
